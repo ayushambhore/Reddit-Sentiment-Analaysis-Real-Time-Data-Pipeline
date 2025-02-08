@@ -42,4 +42,4 @@ Cassandra Database: Scalable and fast data storage.
 
 Grafana Dashboard: Provides real-time sentiment insights.
 
-![.]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/ayushambhore/Reddit-Sentiment-Analaysis-Real-Time-Data-Pipeline/blob/master/dashboard.gif))
+![dashboard](https://github.com/user-attachments/assets/f97796d1-76af-4a02-870d-e5eba69786bc)
