@@ -2,6 +2,9 @@
 ## 📌 Aim of The Project
 To build a real-time data pipeline that analyzes sentiment from Reddit posts and provides insights using visualization tools.
 
+![Data Pipeline](https://github.com/user-attachments/assets/73f78263-5e48-44ba-b6a0-2703fcd1bb9d)
+
+
 ## 📅 Project Timeline
 
 ✅ Data Ingestion: Collected real-time Reddit data using the Reddit API.
